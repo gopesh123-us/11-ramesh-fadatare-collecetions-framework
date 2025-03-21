@@ -20,7 +20,7 @@ public class SearchingElementsArrayListExample {
 		programmingLanguages.add("Rust");
 		programmingLanguages.add("JavaScript");
 		System.out.println("Ruby: "+programmingLanguages.contains("Ruby"));
-		System.out.println("Kotlin: "+programmingLanguages.contains("Kotlin"));
+		System.out.println("Kotlin: "+programmingLanguages.contains("Kot lin"));
 		System.out.println("index of first occurence of JavaScript: " + programmingLanguages.indexOf("JavaScript"));
 		System.out.println("index of last occurence of JavaScript: " + programmingLanguages.lastIndexOf("JavaScript"));
 	}
